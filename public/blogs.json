@@ -2,12 +2,12 @@
     {
       "id": 1,
       "cover": "https://images.unsplash.com/photo-1719937206220-f7c76cc23d78?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "The Art of Minimalism",
+      "title": "The Art of imalism",
       "author": "John Doe",
       "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
       "posted_date": "2024-11-20",
-      "reading_time": "5 min",
-      "hashtags": ["minimalism", "lifestyle", "design"]
+      "reading_time": "5 ",
+      "hashtags": ["imalism", "lifestyle", "design"]
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "author": "Jane Smith",
       "author_img": "https://randomuser.me/api/portraits/women/75.jpg",
       "posted_date": "2024-11-18",
-      "reading_time": "7 min",
+      "reading_time": "7 ",
       "hashtags": ["ai", "technology", "future"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "David Lee",
       "author_img": "https://randomuser.me/api/portraits/men/76.jpg",
       "posted_date": "2024-11-15",
-      "reading_time": "10 min",
+      "reading_time": "10 ",
       "hashtags": ["sustainability", "eco-friendly", "greenliving"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Sarah Jones",
       "author_img": "https://randomuser.me/api/portraits/women/76.jpg",
       "posted_date": "2024-11-12",
-      "reading_time": "8 min",
+      "reading_time": "8 ",
       "hashtags": ["psychology", "color", "design"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Michael Brown",
       "author_img": "https://randomuser.me/api/portraits/men/77.jpg",
       "posted_date": "2024-11-10",
-      "reading_time": "6 min",
+      "reading_time": "6 ",
       "hashtags": ["storytelling", "writing", "communication"]
     }
   ]
